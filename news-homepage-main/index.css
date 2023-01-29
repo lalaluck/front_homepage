@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200&display=swap');
+html{
+    margin: 70px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 400, 700, 800;
+}
+
+p{
+    font-size: 15px;
+}
+
+ul{
+  margin-left: 480px;
+}
+
+li{
+    display: inline-block;
+    text-align:right;
+    margin-left:30px;
+}
+
+h1{
+    font-size: 60px;
+    width: 30%;
+}
+
+hr{
+    color: lightgray;
+    margin-top: 30px;
+    opacity: 50%;
+}
+
+#we{
+    width: 30%;
+    position:absolute;
+    left: 400px;
+    top: 430px;
+    line-height: 0.8cm; 
+    text-align: justify;
+}
+
+button{
+    position:absolute;
+    left: 400px;
+    top: 590px;
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+#new{
+    position:absolute;
+    width: 25%;
+    top: 164px;
+    right: 130px;
+    margin: 10px;
+    background-color: hsl(240, 100%, 5%);
+    color: lightgray;
+    padding-left: 8px;
+    padding-right: 6px;
+}
+
+h2{
+    color: orange;
+    line-height: 35px;
+    font-weight: 900px;
+}
+
+h3{
+    line-height: 35px;
+    color: white;
+}
+
+#o01{
+    position: absolute;
+}
+
+#o02{
+    position: absolute;
+    left:450px;
+}
+
+#o03{
+    position: absolute;
+    left: 800px;
+}
+
+.number{
+    font-size: 25px;
+    color: lightgrey;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 20;
+    color: hsl(240, 100%, 5%);
+    font-weight: bolder;
+}
+#retro{
+    position: absolute;
+    left: 150px;
+    bottom: 15px;
+    width: 220px;
+}
+
+#laptop{
+    position: absolute;
+    left: 150px;
+    bottom: 15px;
+    width: 220px;
+}
+
+#game{
+    position: absolute;
+    left: 150px;
+    bottom: 15px;
+    width: 220px;
+}
+
+.attribution{
+    position:absolute;
+    top: 900px;
+    left: 450px;
+    padding: 50px;
+}
+
+
+
